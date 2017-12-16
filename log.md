@@ -2,8 +2,12 @@
 
 ### Day 1: Decembre 16, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started hex-to-dec cmd convert and a blog project in Go.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The hex-to-dec wasn't so interesting as a project, so I decided to start a different one: a go-written blog.
+            I think I should get better in error handling, because sometimes I'm not sure of what's happining behind.
+            
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Links to work:** [hex-to-dec](https://github.com/echoes341/100-days-of-code/tree/master/hex-to-dec)
+
+[go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
