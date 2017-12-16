@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Decembre 16, 2017 
+### Day 1: December 16, 2017 
 
 **Today's Progress**: Started hex-to-dec cmd convert and a blog project in Go.
 
@@ -8,6 +8,6 @@
             I think I should get better in error handling, because sometimes I'm not sure of what's happining behind.
             
 
-**Links to work:** [hex-to-dec](https://github.com/echoes341/100-days-of-code/tree/master/hex-to-dec)
-
-[go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
+**Links to work:** 
+- [hex-to-dec](https://github.com/echoes341/100-days-of-code/tree/master/hex-to-dec)
+- [go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
