@@ -11,6 +11,13 @@ import (
 	"github.com/julienschmidt/httprouter"
 )
 
+const (
+	menuStr = `Welcome
+	Press "q" to kill the server
+	Press "t" to force templates reloading
+>: `
+)
+
 var (
 	mux = httprouter.New()
 	tpl *template.Template
@@ -29,11 +36,9 @@ func main() {
 	fmt.Printf("Server online. Listening on %s\n", server.Addr)
 	go server.ListenAndServe()
 	for {
+		//Menu
+		fmt.Print(menuStr)
 		s := bufio.NewScanner(os.Stdin)
-		fmt.Print(`Welcome
-	Press "q" to kill the server
-	Press "t" to force templates reloading
->: `)
 
 		s.Scan()
 		switch s.Text() {
