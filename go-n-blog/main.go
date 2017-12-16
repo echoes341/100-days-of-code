@@ -39,11 +39,12 @@ func main() {
 		switch s.Text() {
 		case "q":
 			fmt.Printf("Closing server...\n")
-			err := server.Shutdown(context.TODO())
+			err := server.Shutdown(context.TODO()) //To study: what's a context? And how to use it properly?
 			fmt.Printf("Server closed. %s", err)
 			return
 		case "t":
 			fmt.Println("Realoading templates...")
+			//Should we kill the server before?
 			tpl = template.Must(template.ParseGlob("./templates/*.gohtml"))
 			fmt.Println("Templates reloaded.")
 		default:
