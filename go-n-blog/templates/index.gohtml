@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/style.css">
     <title>Welcome</title>
 </head>
-<body>
-    Welcome to my personal blog!
-
-    <h2>Latest Articles</h2>
-    <p>--- Articles in descending order---</p>
+<body class="wrap">
+    {{block "header" . }}
+    <header>
+        <h1>Echoes Blog</h1>
+    </header>
+    {{end}}
+    <main>
+        <section class="main-content">
+            {{template "articles"}}
+        </section>
+        <section class="sidebar">
+            {{template "sidebar"}}
+        </section>
+    </main>
+    <footer>
+    </footer>
 </body>
 </html>
