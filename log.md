@@ -15,7 +15,7 @@
 ### Day 2: December 17, 2017
 **Today's Progress**: Today I made the first mysql<->go connection and implemented some "test" functions for it.
 
-**Thoughts:** Get stuck in a shadowed variable bug... At last I found that I was redefining DB inside main, so the global db variable was untouched.
+**Thoughts:** Got stuck in a shadowed variable bug... At last I found that I was redefining DB inside main, so the global db variable was untouched.
             
 
 **Links to work:** 
