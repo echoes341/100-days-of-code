@@ -33,11 +33,12 @@ func init() {
 }
 
 func main() {
-	db, err := sql.Open("mysql", "go-n-blog:psw@tcp(localhost:3306)/goblog")
+	var err error
+	db, err = sql.Open("mysql", "go-n-blog:psw@tcp(localhost:3306)/goblog")
 	if err != nil {
 		log.Fatalln("DB connection failed. ", err)
 	}
-	//defer db.Close()
+	defer db.Close()
 
 	err = db.Ping()
 	if err != nil {
