@@ -96,3 +96,16 @@ func userTestInsert(w http.ResponseWriter, r *http.Request, _ httprouter.Params)
 		fmt.Fprintf(w, "User added!\n")
 	}
 }
+
+func printUsers(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
+	rows, err := db.Query("SELECT * FROM users;")
+
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Select users error: %s", err)
+	}
+	var u user
+	for rows.Next() {
+		rows.Scan(&u.ID, &u.Name, &u.User, &u.Password)
+		fmt.Fprintf(w, "ID: %d   NAME: %s   USERNAME: %s   password: %s\n", u.ID, u.Name, u.User, u.Password)
+	}
+}
