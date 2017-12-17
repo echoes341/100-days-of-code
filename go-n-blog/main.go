@@ -3,11 +3,14 @@ package main
 import (
 	"bufio"
 	"context"
+	"database/sql"
 	"fmt"
 	"html/template"
+	"log"
 	"net/http"
 	"os"
 
+	_ "github.com/go-sql-driver/mysql" //for setup
 	"github.com/julienschmidt/httprouter"
 )
 
@@ -21,6 +24,7 @@ const (
 var (
 	mux = httprouter.New()
 	tpl *template.Template
+	db  *sql.DB
 )
 
 func init() {
@@ -29,6 +33,17 @@ func init() {
 }
 
 func main() {
+	db, err := sql.Open("mysql", "go-n-blog:psw@tcp(localhost:3306)/goblog")
+	if err != nil {
+		log.Fatalln("DB connection failed. ", err)
+	}
+	defer db.Close()
+
+	err = db.Ping()
+	if err != nil {
+		log.Fatalln("Ping to db error:", err)
+	}
+
 	server := http.Server{
 		Addr:    ":8080",
 		Handler: mux,
