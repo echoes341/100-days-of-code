@@ -37,7 +37,7 @@ func main() {
 	if err != nil {
 		log.Fatalln("DB connection failed. ", err)
 	}
-	defer db.Close()
+	//defer db.Close()
 
 	err = db.Ping()
 	if err != nil {
@@ -78,5 +78,20 @@ func home(w http.ResponseWriter, r *http.Request, ps httprouter.Params) {
 	err := tpl.ExecuteTemplate(w, "index.gohtml", nil)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error in index template! %s\n", err)
+	}
+}
+
+func userTestInsert(w http.ResponseWriter, r *http.Request, _ httprouter.Params) {
+	u := user{
+		ID:       0,
+		Name:     "Test Name",
+		User:     "test@test.te",
+		Password: "encryptedpassword,indeed",
+	}
+	err := u.insert()
+	if err != nil {
+		fmt.Fprintf(w, "Coulnd't insert the user: %s\n", err)
+	} else {
+		fmt.Fprintf(w, "User added!\n")
 	}
 }
