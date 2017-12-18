@@ -20,3 +20,12 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
+
+### Day 3: December 18, 2017
+**Today's Progress**: Implemented a simple login function in go-n-blog
+
+**Thoughts:** It has been more difficult than I thought. I have to remember to always call row.Next() when I do a query.
+            
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
