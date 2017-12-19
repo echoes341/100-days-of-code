@@ -29,3 +29,15 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+### Day 4: December 19, 2017
+**Today's Progress**: Started studying grid CSS and I tried to implement the basic layout of the blog.
+
+**Thoughts:** CSS is one of my most hated languages, but this grid system could make me change my mind...
+
+**Useful resources:** [grid by example](https://gridbyexample.com/) 
+
+**Links to work:** 
+- [grid test 1](https://codepen.io/echoes341/pen/gorxRV)
+- [grid test 2](https://codepen.io/echoes341/pen/BJKwQR)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
