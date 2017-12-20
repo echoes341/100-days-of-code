@@ -12,6 +12,8 @@
 - [hex-to-dec](https://github.com/echoes341/100-days-of-code/tree/master/hex-to-dec)
 - [go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
 
+
+
 ### Day 2: December 17, 2017
 **Today's Progress**: Today I made the first mysql<->go connection and implemented some "test" functions for it.
 
@@ -30,6 +32,8 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
+
+
 ### Day 4: December 19, 2017
 **Today's Progress**: Started studying grid CSS and I tried to implement the basic layout of the blog.
 
@@ -45,14 +49,17 @@
 - [grid test 2](https://codepen.io/echoes341/pen/BJKwQR)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
+
+
 ### Day 5: December 20, 2017
-**Today's Progress**: Worked on css layout and blog appearance
+**Today's Progress**: Worked on css layout and blog appearance.
 
 **Thoughts:** I want to keep a minimalistic but still elegant layout.
 
-**Useful resources:** [grid by example](https://gridbyexample.com/) 
+**Useful resources:** 
+- [grid by example](https://gridbyexample.com/) 
+- [Realising common layouts using CSS Grid Layout - mozilla developer](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)
+- [Color Calculator](https://www.sessions.edu/color-calculator/) (I love it!)
 
 **Links to work:** 
-- [grid test 1](https://codepen.io/echoes341/pen/gorxRV)
-- [grid test 2](https://codepen.io/echoes341/pen/BJKwQR)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
