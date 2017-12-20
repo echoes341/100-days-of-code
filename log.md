@@ -35,6 +35,21 @@
 
 **Thoughts:** CSS is one of my most hated languages, but this grid system could make me change my mind...
 
+**Useful resources:** 
+- [grid by example](https://gridbyexample.com/) 
+- [Realising common layouts using CSS Grid Layout - mozilla developer](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout)
+
+
+**Links to work:** 
+- [grid test 1](https://codepen.io/echoes341/pen/gorxRV)
+- [grid test 2](https://codepen.io/echoes341/pen/BJKwQR)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+### Day 5: December 20, 2017
+**Today's Progress**: Worked on css layout and blog appearance
+
+**Thoughts:** I want to keep a minimalistic but still elegant layout.
+
 **Useful resources:** [grid by example](https://gridbyexample.com/) 
 
 **Links to work:** 
