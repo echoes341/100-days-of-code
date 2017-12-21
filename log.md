@@ -63,3 +63,13 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 6: December 21, 2017
+**Today's Progress**: Add Angular as frontend.
+
+**Thoughts:** As I want to learn Angular too, why not use it as frontend framework?.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
