@@ -73,3 +73,13 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 7: December 27, 2017
+**Today's Progress**: Angular as frontend: styling, article models, inserted comments and others structures.
+
+**Thoughts:** I'm finding the re-organizing data counter quite difficult, as I don't know typescript enough. Maybe it's better to delegate the info creation to the server API.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
