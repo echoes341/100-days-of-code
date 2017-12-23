@@ -76,10 +76,25 @@
 
 
 
-### Day 7: December 27, 2017
+### Day 7: December 22, 2017
 **Today's Progress**: Angular as frontend: styling, article models, inserted comments and others structures.
 
 **Thoughts:** I'm finding the re-organizing data counter quite difficult, as I don't know typescript enough. Maybe it's better to delegate the info creation to the server API.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 8: December 23, 2017
+**Today's Progress**: Angular as frontend: add like model and footprint.
+
+**Thoughts:** I'm learning by doing.
+
+**Useful resources:** 
+- [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
+- [access key and value of object using *ngFor - stackoverflow](https://stackoverflow.com/questions/35534959/access-key-and-value-of-object-using-ngfor)
+- [ng-content: The hidden docs - Medium](https://medium.com/claritydesignsystem/ng-content-the-hidden-docs-96a29d70d11b)
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
