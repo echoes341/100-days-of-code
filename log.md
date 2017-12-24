@@ -98,3 +98,14 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 9: December 24, 2017
+**Today's Progress**: Angular as frontend: add routes and single article view.
+
+**Thoughts:** I'm starting to understand the beauty of single page apps.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+
