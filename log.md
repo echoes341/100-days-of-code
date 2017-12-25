@@ -109,3 +109,13 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
+
+
+
+### Day 10: December 25, 2017
+**Today's Progress**: Angular as frontend: add comments to article-view.
+
+**Thoughts:** Happy Christmas!.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
