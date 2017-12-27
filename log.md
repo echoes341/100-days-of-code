@@ -111,11 +111,20 @@
 
 
 
-
 ### Day 10: December 25, 2017
 **Today's Progress**: Angular as frontend: add comments to article-view.
 
 **Thoughts:** Happy Christmas!.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 11: December 26, 2017
+**Today's Progress**: Angular as frontend: add comments management -> add, edit, remove.
+
+**Thoughts:** Next step is to integrate this functions with permissions.
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
