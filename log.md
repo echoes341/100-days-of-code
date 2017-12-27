@@ -128,3 +128,13 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 12: December 27, 2017
+**Today's Progress**: Angular as frontend: add article feature using Quilljs as editor.
+
+**Thoughts:** I don't know why, but the HTML inside editor is escaped...
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
