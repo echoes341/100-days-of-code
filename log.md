@@ -138,3 +138,13 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 13: December 28, 2017
+**Today's Progress**: Angular as frontend: refactoring and bug fixing.
+
+**Thoughts:** Code is more consistent and reliable now.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
