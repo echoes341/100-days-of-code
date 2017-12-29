@@ -148,3 +148,13 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 14: December 29, 2017
+**Today's Progress**: Angular as frontend: terribile fight against QuillJS not being cooperative.
+
+**Thoughts:** I should probably change editor.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
