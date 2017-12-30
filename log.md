@@ -158,3 +158,16 @@
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
+
+
+
+### Day 15: December 30, 2017
+**Today's Progress**: Angular as frontend: fixed QuillJS!. Started a new go project: Snake game on terminal, 
+based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
+
+**Thoughts:** Working so much on Angular I was risking to neglect Golang, so I've decided to start a parallel project of a Snake game clone on terminal.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
