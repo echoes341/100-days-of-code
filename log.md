@@ -171,3 +171,13 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
+
+
+### Day 16: December 31, 2017
+**Today's Progress**: Go-snake-terminal: added menus and turn timer.
+
+**Thoughts:** I spent more than one hour to implement only those 2 features...
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
