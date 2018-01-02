@@ -195,7 +195,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 
 
 
-### Day 18: January 3, 2018
+### Day 18: January 2, 2018
 **Today's Progress**: Angular as frontend: changed routes and inserted ngform
 
 **Thoughts:** I need to study ngform more
