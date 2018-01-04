@@ -213,3 +213,12 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+### Day 20: January 4, 2018
+**Today's Progress**: Go Snake!: [First release](https://github.com/echoes341/go-snake-terminal/releases/tag/v1.0.0-beta)! So I tried how release github system works.
+
+**Thoughts:** I'm satisfied with the result :sunglasses:
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
