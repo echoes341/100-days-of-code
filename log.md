@@ -214,10 +214,23 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
+
+
 ### Day 20: January 4, 2018
 **Today's Progress**: Go Snake!: [First release](https://github.com/echoes341/go-snake-terminal/releases/tag/v1.0.0-beta)! So I tried how release github system works.
 
 **Thoughts:** I'm satisfied with the result :sunglasses:
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 21: January 5, 2018
+**Today's Progress**: Angular as frontend. Today I'm back to Angular and I've added validations on all forms.
+
+**Thoughts:** At last I've found something that's very simple to do in Angular! Extremely simpler than pure javascript or jQuery!
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
