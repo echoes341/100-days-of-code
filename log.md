@@ -235,3 +235,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 22: January 6, 2018
+**Today's Progress**: Angular as frontend. Merged add and edit article components and added login and signup component.
+
+**Thoughts:** I'm starting to get familiar with Angular :smile:
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
