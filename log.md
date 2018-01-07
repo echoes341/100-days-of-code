@@ -246,3 +246,18 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 23: January 7, 2018
+**Today's Progress**: Go as backend. Implemented fetchArticle as RESTful api for frontend.
+
+**Thoughts:** I've had some troubles getting the db connected. In the end I found I was using `defer db.Close()` inside init(), so when main arrived, db was already closed. Fortunately gorm has error handling methods, so you can know what's wrong.
+
+**Useful resources:**
+- [Build RESTful API service in golang using gin-gonic framework](https://medium.com/@thedevsaddam/build-restful-api-service-in-golang-using-gin-gonic-framework-85b1a6e176f3)
+- [Microservices in Golang - Part 1](https://ewanvalentine.io/microservices-in-golang-part-1/)
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
