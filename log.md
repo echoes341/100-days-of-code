@@ -261,3 +261,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 24: January 8, 2018
+**Today's Progress**: Go as backend. Implemented fetchLikes, fetchComments and gzip support.
+
+**Thoughts:** I have to think carefully about the structure of my API. I don't want it to be messy.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
