@@ -283,3 +283,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 26: January 10, 2018
+**Today's Progress**: Go as backend. Removed cache.
+
+**Thoughts:** Not very productive today, I don't understand how [gin cache](https://github.com/gin-contrib/cache/) works, I should probably ask in the repo. 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
