@@ -294,3 +294,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 27: January 11, 2018
+**Today's Progress**: Go as backend. Replaced gin with julien schmidt's httprouter.
+
+**Thoughts:** I removed gin because at the end I was using only the JSON function of the framework, so I implemented my own and removed it. I started studying how caches work and how to implement them in a golang server. 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
