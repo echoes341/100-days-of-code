@@ -305,3 +305,17 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 28: January 12, 2018
+**Today's Progress**: Go as backend. Implemented cache for restful service.
+
+**Thoughts:** I built a simple cache for restful service, so we can avoid some calls to the database. 
+
+**Useful resources:**
+- [Write backend HTTP response to http.ResponseWriter and File](https://gist.github.com/ismasan/d03d602b8e4e37862547e9a6f0391dc9)
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
