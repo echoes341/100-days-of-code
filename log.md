@@ -330,3 +330,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 30: January 14, 2018
+**Today's Progress**: Go as backend. Implemented other methods of API: articles list by year/month/day. Studied some cURL options and vscode+git-bash settings.
+
+**Thoughts:** Good settings of our IDE enhance productivity.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
