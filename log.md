@@ -341,3 +341,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+
+### Day 31: January 15, 2018
+**Today's Progress**: Go as backend. Begun auth section. Login first steps.
+
+**Thoughts:** This is a very interesting topic, I want to handle it quite in depth.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
