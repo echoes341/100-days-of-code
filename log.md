@@ -12,16 +12,17 @@
 - [hex-to-dec](https://github.com/echoes341/100-days-of-code/tree/master/hex-to-dec)
 - [go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
 
-
+-----
 
 ### Day 2: December 17, 2017
 **Today's Progress**: Today I made the first mysql<->go connection and implemented some "test" functions for it.
 
 **Thoughts:** Got stuck in a shadowed variable bug... At last I found that I was redefining DB inside main, so the global db variable was untouched.
-            
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/100-days-of-code/tree/master/go-n-blog)
+
+-----
 
 ### Day 3: December 18, 2017
 **Today's Progress**: Implemented a simple login function in go-n-blog
@@ -32,7 +33,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 4: December 19, 2017
 **Today's Progress**: Started studying grid CSS and I tried to implement the basic layout of the blog.
@@ -49,7 +50,7 @@
 - [grid test 2](https://codepen.io/echoes341/pen/BJKwQR)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 5: December 20, 2017
 **Today's Progress**: Worked on css layout and blog appearance.
@@ -64,7 +65,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 6: December 21, 2017
 **Today's Progress**: Add Angular as frontend.
@@ -74,7 +75,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 7: December 22, 2017
 **Today's Progress**: Angular as frontend: styling, article models, inserted comments and others structures.
@@ -84,7 +85,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 8: December 23, 2017
 **Today's Progress**: Angular as frontend: add like model and footprint.
@@ -99,7 +100,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 9: December 24, 2017
 **Today's Progress**: Angular as frontend: add routes and single article view.
@@ -109,7 +110,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 10: December 25, 2017
 **Today's Progress**: Angular as frontend: add comments to article-view.
@@ -119,7 +120,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 11: December 26, 2017
 **Today's Progress**: Angular as frontend: add comments management -> add, edit, remove.
@@ -129,7 +130,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 12: December 27, 2017
 **Today's Progress**: Angular as frontend: add article feature using Quilljs as editor.
@@ -139,7 +140,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 13: December 28, 2017
 **Today's Progress**: Angular as frontend: refactoring and bug fixing.
@@ -149,7 +150,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 14: December 29, 2017
 **Today's Progress**: Angular as frontend: terribile fight against QuillJS not being cooperative.
@@ -159,7 +160,7 @@
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 
-
+-----
 
 ### Day 15: December 30, 2017
 **Today's Progress**: Angular as frontend: fixed QuillJS!. Started a new go project: Snake game on terminal, 
@@ -171,7 +172,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 16: December 31, 2017
 **Today's Progress**: Go-snake-terminal: added menus and turn timer.
@@ -182,7 +183,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 17: January 1, 2018
 **Today's Progress**: Go-snake-terminal: added snake and movements
@@ -193,7 +194,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 18: January 2, 2018
 **Today's Progress**: Angular as frontend: changed routes and inserted ngform
@@ -203,7 +204,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 19: January 3, 2018
 **Today's Progress**: Go Snake!: Added collision detection, refactor turn handling and added food structure
@@ -214,7 +215,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 20: January 4, 2018
 **Today's Progress**: Go Snake!: [First release](https://github.com/echoes341/go-snake-terminal/releases/tag/v1.0.0-beta)! So I tried how release github system works.
@@ -225,7 +226,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 21: January 5, 2018
 **Today's Progress**: Angular as frontend. Today I'm back to Angular and I've added validations on all forms.
@@ -236,7 +237,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 22: January 6, 2018
 **Today's Progress**: Angular as frontend. Merged add and edit article components and added login and signup component.
@@ -247,7 +248,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 23: January 7, 2018
 **Today's Progress**: Go as backend. Implemented fetchArticle as RESTful api for frontend.
@@ -262,7 +263,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 24: January 8, 2018
 **Today's Progress**: Go as backend. Implemented fetchLikes, fetchComments and gzip support.
@@ -273,7 +274,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 25: January 9, 2018
 **Today's Progress**: Go as backend. Implemented cache.
@@ -284,7 +285,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 26: January 10, 2018
 **Today's Progress**: Go as backend. Removed cache.
@@ -295,7 +296,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 27: January 11, 2018
 **Today's Progress**: Go as backend. Replaced gin with julien schmidt's httprouter.
@@ -306,7 +307,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 28: January 12, 2018
 **Today's Progress**: Go as backend. Implemented cache for restful service.
@@ -320,7 +321,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 29: January 13, 2018
 **Today's Progress**: Go as backend. Implemented other methods of API: articles list and article sidebar count.
@@ -331,7 +332,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 30: January 14, 2018
 **Today's Progress**: Go as backend. Implemented other methods of API: articles list by year/month/day. Studied some cURL options and vscode+git-bash settings.
@@ -342,7 +343,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
-
+-----
 
 ### Day 31: January 15, 2018
 **Today's Progress**: Go as backend. Begun auth section. Login first steps.
@@ -352,3 +353,5 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
