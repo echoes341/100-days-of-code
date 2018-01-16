@@ -355,3 +355,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 32: January 16, 2018
+**Today's Progress**: Go as backend. Replaced httprouter with httptreemux and wrote a generic GET middleware.
+
+**Thoughts:** I replaced the router because httptreemux's one uses http.HandlerFunc, passing URL parameter as a handy map\[string]string in request context. This gives me the possibility to use external functions designed for net/http package without the need to change anything. It has groups too, so code is more organized and middleware-friendly.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
