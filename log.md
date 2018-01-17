@@ -366,3 +366,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 33: January 17, 2018
+**Today's Progress**: Go as backend. Implemented user database struct and login by bcrypt hash compare.
+
+**Thoughts:** Used omitempty on json tag! Tomorrow I'll read more about JWT.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
