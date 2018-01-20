@@ -388,3 +388,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 35: January 19, 2018
+**Today's Progress**: Experiments with rsa.
+
+**Thoughts:** Tried to create a page which sends an encrypted rsa message, after receiving a public key from go server.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
