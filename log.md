@@ -432,3 +432,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 39: January 23, 2018
+**Today's Progress**: Go as restful backend. Added article edit feature.
+
+**Thoughts:** I'm learning a lot of about http headers and how to use them.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
