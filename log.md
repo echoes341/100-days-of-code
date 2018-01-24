@@ -443,3 +443,15 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 39: January 23, 2018
+**Today's Progress**: I've taken back one of my eldest project and integrated there the new knowledge I got from these days.
+
+**Thoughts:** Refactoring!
+
+**Links to work:** 
+- [francescaluciaeventi.com](https://github.com/echoes341/fle-site)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
