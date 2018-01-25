@@ -455,3 +455,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 41: January 25, 2018
+**Today's Progress**: Studied how to implement C structures in Go and inserted delete article function.
+
+**Thoughts:** I'm reaching a point where my knowledge is weaker, so I will structure this hour this way: 30min on reading/studying and 30min on coding on my project (at least).
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
