@@ -488,3 +488,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 44: January 29, 2018
+**Today's Progress**: Code reorganization: like, comments and user as controllers and models. Renaming paramters and functions.
+
+**Thoughts:** Simplicity.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
