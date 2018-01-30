@@ -500,7 +500,7 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 
 -----
 
-### Day 44: January 29, 2018
+### Day 45: January 30, 2018
 **Today's Progress**: Finished code reorganization, refactoring code to improve error handling; fixed article delete.
 
 **Thoughts:** I need to take my notes about db management.
