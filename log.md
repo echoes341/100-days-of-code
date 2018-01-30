@@ -499,3 +499,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 44: January 29, 2018
+**Today's Progress**: Finished code reorganization, refactoring code to improve error handling; fixed article delete.
+
+**Thoughts:** I need to take my notes about db management.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
