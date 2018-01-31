@@ -510,3 +510,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 46: January 31, 2018
+**Today's Progress**: Continuing reading go's idiomatic guide. Renamed some functions and implemented toggle like function
+
+**Thoughts:** Learning!.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
