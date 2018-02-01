@@ -521,3 +521,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 47: February 1, 2018
+**Today's Progress**: Implemented comments CRUD. Need testing and bot-protection.
+
+**Thoughts:** It is an approach very similar to articles, so I've been much faster than before.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
