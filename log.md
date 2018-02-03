@@ -532,10 +532,22 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
 ### Day 48: February 2, 2018
 **Today's Progress**: Continued reading go effective guide and did part 1 of gophercises.com
 
 **Thoughts:** Interesting.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
+
+### Day 49: February 3, 2018
+**Today's Progress**: Worked on part 2 of first exercise.
+
+**Thoughts:** How to use goroutines as timer?.
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
