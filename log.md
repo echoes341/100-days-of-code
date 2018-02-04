@@ -554,3 +554,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 50: February 4, 2018
+**Today's Progress**: Studied YAML with exercise 2 of [gophercises.com](https://gophercises.com).
+
+**Thoughts:** I'm halfway!.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
