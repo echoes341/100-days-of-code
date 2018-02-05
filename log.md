@@ -565,3 +565,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 51: February 5, 2018
+**Today's Progress**: Implemented user signup functions, other refactoring in mind.
+
+**Thoughts:** The more I refactor, the more I'd refactor.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
