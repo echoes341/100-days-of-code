@@ -576,3 +576,13 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+### Day 52: February 6, 2018
+**Today's Progress**: I finished to read the go effective document, and implemented some admin functions.
+
+**Thoughts:** I think my coding abilities are improved, after the effective go doc.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
