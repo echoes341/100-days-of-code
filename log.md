@@ -586,3 +586,14 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 53: February 7, 2018
+**Today's Progress**: Studied how to implement TLS with go and how to integrate it with haproxy.
+
+**Thoughts:** I'm a bit confused.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
