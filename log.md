@@ -619,3 +619,18 @@ based on [plutov's go-snake-telnet](https://github.com/plutov/go-snake-telnet).
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 56: February 10, 2018
+**Today's Progress**: Going on studying angular http module, enabled cors in my api.
+
+**Thoughts:** I allowed CORS just with a simple 
+```
+Access-Control-Allow-Origin: *
+```
+But it allows a more advanced management. I don't need it now, but when my project is almost finished I will review it.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
