@@ -634,3 +634,14 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 57: February 11, 2018
+**Today's Progress**: Implementing some GET functions on angular.
+
+**Thoughts:**  I have to learn how to handle data while requests are loading... 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
