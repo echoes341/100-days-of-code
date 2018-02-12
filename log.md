@@ -645,3 +645,14 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+
+### Day 58: February 12, 2018
+**Today's Progress**: First contacts with MongoDB.
+
+**Thoughts:**  It's an interesting db. 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
