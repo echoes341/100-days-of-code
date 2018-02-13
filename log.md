@@ -656,3 +656,13 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+### Day 59: February 13, 2018
+**Today's Progress**: Doing exercises on golang web dev course.
+
+**Thoughts:**  I've almost finished. 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
