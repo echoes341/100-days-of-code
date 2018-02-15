@@ -667,3 +667,13 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+### Day 60: February 14, 2018
+**Today's Progress**: Installed docker in a virtual machine.
+
+**Thoughts:**  I'm setting an environment where I can test whatever I want. 
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
