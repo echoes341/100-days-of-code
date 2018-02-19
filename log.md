@@ -703,7 +703,17 @@ But it allows a more advanced management. I don't need it now, but when my proje
 ### Day 63: February 18, 2018
 **Today's Progress**: Reviewing SQL with PostgreSQL database.
 
-**Thoughts:** Databases are a very interesting field
+**Thoughts:** Databases belong to a very interesting field.
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
+### Day 64: February 19, 2018
+**Today's Progress**: Reviewing SQL with PostgreSQL database: taking back some old notes from university
+
+**Thoughts:** The ER Diagram doesn't concern the the tv series ;)
 
 **Links to work:** 
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
