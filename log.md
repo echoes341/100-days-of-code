@@ -731,3 +731,12 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 -----
 
+### Day 66: February 21, 2018
+**Today's Progress**: Back to MongoDB
+
+**Thoughts:** Experimenting!
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
