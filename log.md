@@ -720,3 +720,14 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
 -----
+### Day 65: February 20, 2018
+**Today's Progress**: Back to MongoDB
+
+**Thoughts:** Getting deeper into it!
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+-----
+
