@@ -740,3 +740,15 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
+-----
+
+### Day 67: February 22, 2018
+**Today's Progress**: MongoDB: insert/update/remove functions
+
+**Thoughts:** Experimenting!
+
+**Links to work:** 
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
