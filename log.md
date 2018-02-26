@@ -786,3 +786,14 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
+----
+
+### Day 71: February 26, 2018
+**Today's Progress**: Did some other clash of codes on codinggame.com and started go advanced course on udemy
+
+**Thoughts:** :)
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
