@@ -809,3 +809,15 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+----
+
+### Day 73: February 28, 2018
+**Today's Progress**: Experimenting with concurrency: Mutexes!
+
+**Thoughts:**  I think concurrency it's a very intriguing subject and I want to know more about it.
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
