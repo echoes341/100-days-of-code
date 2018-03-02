@@ -836,7 +836,7 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ----
 
-### Day 7: March 2, 2018
+### Day 75: March 2, 2018
 **Today's Progress**: Exploring the go builting tools. Go vet, go lint, go list..
 
 **Thoughts:** They're very nic. Luckily, they're builtin in vscode.
