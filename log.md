@@ -824,7 +824,7 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ----
 
-### Day 7: March 1, 2018
+### Day 74: March 1, 2018
 **Today's Progress**: Experimenting with concurrency: Channels and tickers!
 
 **Thoughts:**  Love it.
@@ -833,3 +833,16 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+----
+
+### Day 7: March 2, 2018
+**Today's Progress**: Exploring the go builting tools. Go vet, go lint, go list..
+
+**Thoughts:** They're very nic. Luckily, they're builtin in vscode.
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
