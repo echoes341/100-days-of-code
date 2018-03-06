@@ -869,3 +869,13 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+----
+### Day 78: March 5, 2018
+**Today's Progress**: Still exercises with go concurrency.
+
+**Thoughts:**  .
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
