@@ -966,7 +966,7 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ----
 
-### Day 86: March 13, 2018
+### Day 86: March 14, 2018
 **Today's Progress**: Experimenting with Docker-compose and command line arguments.
 
 **Thoughts:** 
@@ -978,7 +978,7 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ----
 
-### Day 86: March 13, 2018
+### Day 86: March 15, 2018
 **Today's Progress**: Exploring git integration in Go.
 
 **Thoughts:** 
