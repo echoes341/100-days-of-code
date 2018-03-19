@@ -978,8 +978,44 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ----
 
-### Day 86: March 15, 2018
+### Day 87: March 15, 2018
 **Today's Progress**: Exploring git integration in Go.
+
+**Thoughts:** 
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+----
+
+### Day 88: March 16, 2018
+**Today's Progress**: Testing on DNS protocol.
+
+**Thoughts:** 
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+----
+
+### Day 89: March 17, 2018
+**Today's Progress**: Regex on golang.
+
+**Thoughts:** 
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+---
+
+### Day 90: March 17, 2018
+**Today's Progress**: Regex on golang with yml integration.
 
 **Thoughts:** 
 
