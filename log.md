@@ -1039,7 +1039,7 @@ But it allows a more advanced management. I don't need it now, but when my proje
 
 ---
 
-### Day 91: March 17, 2018
+### Day 92: March 18, 2018
 **Today's Progress**: Studying concurrency patterns in #Go
 
 **Thoughts:** 
