@@ -1023,3 +1023,16 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+
+---
+
+### Day 91: March 17, 2018
+**Today's Progress**: Introducting tests with go.
+
+**Thoughts:** I want to understand better what tests are and how to use theme properly.
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
