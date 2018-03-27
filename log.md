@@ -1123,3 +1123,15 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
+
+---
+
+### Day 99: March 27, 2018
+**Today's Progress**: Getting started with Microservices Architecture.
+
+**Thoughts:** Twitter helped me a lot in finding good resources :3.
+
+**Links to work:** 
+- [udemy's certification](https://www.udemy.com/certificate/UC-2ERRF6O6/)
+- [go-n-blog](https://github.com/echoes341/go-n-blog)
+- [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
