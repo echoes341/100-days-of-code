@@ -1160,8 +1160,9 @@ But it allows a more advanced management. I don't need it now, but when my proje
 - [go-n-blog](https://github.com/echoes341/go-n-blog)
 - [go-snake-terminal](https://github.com/echoes341/go-snake-terminal)
 
+---
 
-### Day 102: March 39, 2018
+### Day 102: March 30, 2018
 **Today's Progress**: Reading about grpc
 
 **Thoughts:** 
